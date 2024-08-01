@@ -133,3 +133,7 @@ null == undefined; // true
 
         greet("Alice");
 '''
+
+#Operadores de comparación
+
+#Operadores lógicos
